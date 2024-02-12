@@ -13,7 +13,7 @@ int main()
     int iValue1 =0, iValue2 = 0;
      int iRet = 0; 
 
-    printf("Enter First number");
+    printf("Enter First number      ");
     scanf("%d",&iValue1);
 
    printf("Enter Second number");
